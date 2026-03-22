@@ -26,6 +26,6 @@
 - Built classification models (Logistic Regression, Decision Tree, Random Forest)
 - Evaluated using F1-score and balanced accuracy
 ### 💰 Loan Approval Predictor
-Developed a logistic regression model with AUC = 0.83
-Applied feature selection and cross-validation
-Demonstrated end-to-end ML workflow from preprocessing to evaluation
+- Developed a logistic regression model with AUC = 0.83
+- Applied feature selection and cross-validation
+- Demonstrated end-to-end ML workflow from preprocessing to evaluation
