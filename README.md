@@ -10,9 +10,9 @@
 - 🏥 Experience applying data science in healthcare systems
 - 📈 Background in data visualization, regression, and hypothesis testing
 - 🛠️ Technical Skills:
-  Languages: Python, SQL, Java, JavaScript, R
-  Libraries & Tools: Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Altair, Tableau
-  Core Skills: Data Wrangling & Cleaning, Exploratory Data Analysis (EDA), Machine Learning Modeling, Statistical Inference & Hypothesis Testing
+  - Languages: Python, SQL, Java, JavaScript, R
+  - Libraries & Tools: Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Altair, Tableau
+  - Core Skills: Data Wrangling & Cleaning, Exploratory Data Analysis (EDA), Machine Learning Modeling, Statistical Inference & Hypothesis Testing
 
 ## 📁 Featured Projects
 ### 🏎️ Formula One Race Performance Prediction
