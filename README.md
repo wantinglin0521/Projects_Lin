@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Vivian Lin
 
-I’m an Information Sciences student at the University of Illinois Urbana-Champaign, with a minor in Computer Science and a strong focus on data science, machine learning, and analytics.
+- I’m an Information Sciences student at the University of Illinois Urbana-Champaign, with a minor in Computer Science and a strong focus on data science, machine learning, and analytics.
 
-This repository showcases my projects in data analysis, predictive modeling, and applied machine learning, where I explore how data can drive insights and real-world decision-making.
+- This repository showcases my projects in data analysis, predictive modeling, and applied machine learning, where I explore how data can drive insights and real-world decision-making.
 
 ## 🔍 About Me
-📊 Passionate about data-driven problem solving
-🤖 Interested in machine learning & statistical modeling
-🏥 Experience applying data science in healthcare systems
-📈 Background in data visualization, regression, and hypothesis testing
-🛠️ Technical Skills:
+- 📊 Passionate about data-driven problem solving
+- 🤖 Interested in machine learning & statistical modeling
+- 🏥 Experience applying data science in healthcare systems
+- 📈 Background in data visualization, regression, and hypothesis testing
+- 🛠️ Technical Skills:
   Languages: Python, SQL, Java, JavaScript, R
   Libraries & Tools: Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Altair, Tableau
   Core Skills: Data Wrangling & Cleaning, Exploratory Data Analysis (EDA), Machine Learning Modeling, Statistical Inference & Hypothesis Testing
